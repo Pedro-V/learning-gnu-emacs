@@ -9,4 +9,5 @@
 	    i (1+ i)))
     result))
 
-(times 1 1)
+(times (1+ 3)
+       2)
